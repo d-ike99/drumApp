@@ -1,0 +1,17 @@
+# Java 全般
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# パッケージング出力
+target/
+build/
+
+# IDE関連
+.vscode/
+
+# OSファイル
+.DS_Store
+Thumbs.db
